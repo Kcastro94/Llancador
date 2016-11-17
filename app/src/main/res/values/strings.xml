@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Llancador</string>
+    <string name="undefined">Undefined favorite</string>
+    <string name="description">Description</string>
+    <string name="url">URL</string>
+    <string name="navegador">Browser</string>
+    <string name="camera">Cam</string>
+    <string name="telf">Phone</string>
+</resources>
